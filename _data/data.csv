@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-online,online,NA,NA,NA,"March 08 - 29, 2023",13:00 - 17:00 CEST,2023-03-07T23:00:00Z,2023-03-28T22:00:00Z,"Barbara Vreede, Pablo Rodríguez-Sánchez","Ji Qi, Eva Viviani",ds,ds-rpackaging,Reproducible research with R packages,2023-03-08-ds-rpackaging,NA
+online,online,NA,NA,NA,"March 08 - 29, 2023",13:00 - 17:00 CEST,2023-03-07T23:00:00Z,2023-03-28T22:00:00Z,"Barbara Vreede, Pablo Rodríguez-Sánchez","Ji Qi, Eva Viviani, Malte Lüken",ds,ds-rpackaging,Reproducible research with R packages,2023-03-08-ds-rpackaging,NA
